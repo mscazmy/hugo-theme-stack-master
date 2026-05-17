@@ -1,0 +1,2 @@
+# hugo-theme-stack-master
+
